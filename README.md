@@ -3,10 +3,8 @@ The Task Manager application is a web-based solution designed to help manage tas
 
 **Technology Stack**
 Java: Backend programming language.
-Spring Boot: Framework for building RESTful APIs and microservices.
+Spring Boot: Framework for building RESTful APIs.
 MySQL: Database for storing task-related data.
-Hibernate: Object-Relational Mapping (ORM) tool for database interactions.
-JMS: For real-time communication.
 Bootstrap: Frontend framework for responsive design.
 IntelliJ IDEA: IDE used for development.
 
